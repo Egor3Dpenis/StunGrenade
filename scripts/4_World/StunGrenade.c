@@ -1,19 +1,8 @@
 int Minus(int a, int b)
 {
-    string s = "Hello";
-    Print(s);
-    string s2 = "World";
-    Print(s2);
-
-    s + s2 = HUIYTA;
-    Print(s + s2);
-    Print(s + s2 + " " + "Hello");
-
-
-    a - b;
-
-
-    return 52151251251;
+    int result = 12345;
+    result = a - b;
+    return result;
 }
 
 
